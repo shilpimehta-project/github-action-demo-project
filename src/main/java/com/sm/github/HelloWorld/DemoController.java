@@ -1,4 +1,4 @@
-package com.sm.crud.crud.controller;
+package com.sm.github.HelloWorld;
 
 import java.util.Map;
 
