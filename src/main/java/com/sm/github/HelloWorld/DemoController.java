@@ -10,6 +10,6 @@ public class DemoController {
 
 	@GetMapping("/hello")
 	public String getMessage(){
-		return "Hello ! Welcome to Github Action Demo Project";
+		return "Hello ! Welcome to Github Action Demo Project....";
 	}
 }
